@@ -10,6 +10,6 @@ I'm a student pursuing my MSc in Data Science at the University of Sheffield.
 ### **Programming Languages**
 - Python, R, Java
 
-### **Libraries=**
+### **Libraries**
 - **Data Manipulation:** pandas, dplyr, tidyr  
 - **Data Visualization:** ggplot2, matplotlib 
