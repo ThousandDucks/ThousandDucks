@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile! 👋
 
 ## About Me
-I'm a student pursuing my MSc in Data Science at the University of Sheffield.
+I'm a student pursuing my MSc in Data Science.
 
 ---
 
